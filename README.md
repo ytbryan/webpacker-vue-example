@@ -1,3 +1,6 @@
+
+You may wish to know that I am writing [Vue on Rails](vueonrails.com) book with Richard LaFranchi
+
 # Webpacker-Vue-Examples
 
 Some examples of Rails 5.1.x app using Vue 2.x.

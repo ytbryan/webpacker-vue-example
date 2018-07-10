@@ -1,5 +1,5 @@
 
-You may wish to know that I am writing [Vue on Rails](vueonrails.com) book with Richard LaFranchi
+You may wish to know that I am writing [Vue on Rails](http://vueonrails.com) book with Richard LaFranchi
 
 # Webpacker-Vue-Examples
 
